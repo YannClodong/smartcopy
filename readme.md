@@ -1,6 +1,6 @@
 # SmartCopy
 
-SmartCopy is a utility to avoid useless write over disk. 
+SmartCopy is a utility to avoid useless write on the disk. 
 
 It there is a conflict between the destination file and the source file it firstly check the checksum and only copy if they're different.
 
