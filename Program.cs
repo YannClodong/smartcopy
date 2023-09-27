@@ -27,8 +27,6 @@ public class Program
     }
     public static void Main(string[] args)
     {
-        Console.WriteLine("Arg1: " + args[1]);
-        Console.WriteLine("Arg2: " + args[2]);
         var source = args[1];
         var dest = args[2];
 
